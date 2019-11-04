@@ -47,7 +47,7 @@ $endif$
 \fancyhf{}
 \fancyfoot[C]{%
   \textbf{Convenor}: Trevor Hobbs - 076 731 2993 - \href{mailto:liontrevorhobbs@gmail.com}{\burl{liontrevorhobbs@gmail.com}}\\
-  \textbf{Registration Secretary}: Kim van Wyk - 083 384 4260 - \href{mailto:vanwykk@gmail.com}{\burl{vanwykk@gmail.com}}}
+  \textbf{Registration Secretary}: Kim van Wyk - 083 384 4260 - \href{mailto:vanwykk@gmail.com}{\burl{vanwykk@gmail.com}}\\
   \textbf{Treasurer}: Dave Shone - 083 447 1930 - \href{mailto:david.shone.za@gmail.com}{\burl{david.shone.za@gmail.com}}}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
