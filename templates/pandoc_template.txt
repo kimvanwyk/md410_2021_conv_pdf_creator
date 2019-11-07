@@ -12,7 +12,14 @@ includefoot, footskip=1cm, ignorehead]{geometry}
 \usepackage[utf8x]{inputenc}
 
 \usepackage{multirow}
+
+\usepackage{hhline}
 \usepackage{tabularx}
+% \usepackage{ltablex}
+\usepackage{longtable}
+\setlength{\LTleft}{2em}
+\usepackage{booktabs}
+% \usepackage[margins=raggedright]{floatrow}
 
 % Hyper refs
 \usepackage[breaklinks=true,unicode=true,pdfborder={0 0 0}]{hyperref}
