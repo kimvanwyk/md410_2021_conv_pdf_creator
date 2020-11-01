@@ -71,10 +71,10 @@ $endif$
 \setlength{\parindent}{-1cm}
 \begin{tabularx}{\textwidth + 2cm}{l C r}
   \multirow{6}{3.6cm}{\includegraphics[width=3.5cm]{$path$resources/lionsemblemnewsmall.png}} & \LARGE{Multiple District 410} & \multirow{6}{3.6cm}{\includegraphics[width=3.5cm]{$path$resources/compass.png}} \\
-& \LARGE{2020 Convention} & \\
+& \LARGE{2021 Convention} & \\
 &  \LARGE{eThekwini, KZN} & \\
-&  \Large{1 - 3 May 2020} & \\
-&  \large{\href{http://www.lionsconvention2020.co.za}{\burl{http://www.lionsconvention2020.co.za}}} &  \\
+&  \Large{30 April - 2 May 2021} & \\
+&  \large{\href{http://www.lionsconvention2021.co.za}{\burl{http://www.lionsconvention2021.co.za}}} &  \\
 & & 
 \end{tabularx}
 \setlength{\parindent}{0pt}
