@@ -70,7 +70,7 @@ $endif$
 & \LARGE{2021 Online Convention} & \\
 &  \Large{24 April \& 1 May 2021} & \\
 &  \large{\href{http://www.lionsconvention2021.co.za}{\burl{http://www.lionsconvention2021.co.za}}} &  \\
-& & 
+& & \\
 & & 
 \end{tabularx}
 \setlength{\parindent}{0pt}
