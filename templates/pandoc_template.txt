@@ -66,7 +66,7 @@ $endif$
 
 \setlength{\parindent}{-1cm}
 \begin{tabularx}{\textwidth + 2cm}{l C r}
-  \multirow{6}{3.6cm}{\includegraphics[width=3.5cm]{$path$resources/lionsemblemnewsmall.png}} & \LARGE{Multiple District 410} & \multirow{6}{3.6cm}{\includegraphics[width=3.5cm]{$path$resources  /compass.png}} \\
+  \multirow{6}{3.6cm}{\includegraphics[width=3.5cm]{$path$resources/lionsemblemnewsmall.png}} & \LARGE{Multiple District 410} & \multirow{6}{3.6cm}{\includegraphics[width=3.5cm]{$path$resources/compass.png}} \\
 & \LARGE{2021 Online Convention} & \\
 &  \Large{24 April \& 1 May 2021} & \\
 &  \large{\href{http://www.lionsconvention2021.co.za}{\burl{http://www.lionsconvention2021.co.za}}} &  \\
